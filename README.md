@@ -1,58 +1,87 @@
-# 👋 Hi there, I'm Jeongmin!
 
-I'm a university student with a **deep passion** for systems programming and Bitcoin.  
-I’m particularly interested in LoRa communication, the fundamentals of Bitcoin, and modern frontend web development.  
-Currently, I’m studying the inner workings of the Bitcoin protocol through *Programming Bitcoin* by Jimmy Song.
+# 👋 Jeongmin (정민)
 
----
-
-## 🛠️ What I'm Working On
-
-- 📡 **LoRa Communication Optimization**
-  - Exploring ways to improve the quality of communication in LoRa networks.
-  - Researching how machine learning and lossy compression can enhance data transmission in constrained environments.
-
-- 📘 **Studying the Bitcoin Protocol**
-  - Working through *Programming Bitcoin* to learn how Bitcoin works from the ground up.
-  - Gaining a deep understanding of Bitcoin’s mechanics to apply the knowledge in real-world projects.
-
-- 🌐 **OpenPleb Website Development**
-  - Building a community-driven Bitcoin website.
-  - Using **TailwindCSS** and **TypeScript** to create a responsive and modern UI/UX experience.
+University student & system-level developer with deep interest in Bitcoin and embedded systems.  
+Currently focused on LoRa optimization, Bitcoin protocol internals, and frontend development with TypeScript + TailwindCSS.
 
 ---
 
-## 📦 Featured Repositories
+## 🔧 Projects
 
-- [`programming_bitcoin`](https://github.com/4xvgal/programming_bitcoin)  
-  A repository documenting my journey through *Programming Bitcoin*, where I implement and study Bitcoin protocols step-by-step.
+- **LoRa + ML-based Compression**  
+  - Optimizing SF and packet success rates by applying lossy compression with ML models.
 
-- [`USBprotection`](https://github.com/4xvgal/USBprotection)  
-  A security tool that blocks unauthorized USB devices.  
-  Built with C#, focused on system security and hardware-level access control.
+- **Bitcoin Protocol Study**  
+  - Implementing Bitcoin from scratch via *Programming Bitcoin* by Jimmy Song.
 
-- [`open-pleb`](https://github.com/gandlafbtc/open-pleb)  
-  A community web project for Bitcoin education and outreach.  
-  Built using TailwindCSS and TypeScript, focused on responsive, user-friendly design.
-
-- [`Algo_n_DataStructure`](https://github.com/4xvgal/Algo_n_DataStructure)  
-  A collection of algorithms and data structure implementations.  
-  Includes solutions to various problems and explanations to reinforce fundamental CS concepts.
+- **OpenPleb Website**  
+  - Building a Bitcoin education platform with TailwindCSS and TypeScript.
 
 ---
 
-## 📊 GitHub Stats
+## 📁 Selected Repositories
 
-![4xvgal's GitHub stats](https://github-readme-stats.vercel.app/api?username=4xvgal&show_icons=true&theme=radical)
+- [`programming_bitcoin`](https://github.com/4xvgal/programming_bitcoin):  
+  Bitcoin protocol reconstruction in Python (Elliptic Curve, Blocks, Transactions, Wallets)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4xvgal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- [`USBprotection`](https://github.com/4xvgal/USBprotection):  
+  C#-based USB access control tool to block unauthorized devices
+
+- [`open-pleb`](https://github.com/gandlafbtc/open-pleb):  
+  Educational Bitcoin site (Tailwind + TS) – contributor
+
+- [`Algo_n_DataStructure`](https://github.com/4xvgal/Algo_n_DataStructure):  
+  Algorithm/data structure practice in C++
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Contact
 
-- 🌐 Website: [bitcoinpusan.space](https://bitcoinpusan.space)  
-- 📧 Email: [hellojeongmin@proton.me](mailto:hellojeongmin@proton.me)  
-- 📍 Location: South Korea
+- Website: [bitcoinpusan.space](https://bitcoinpusan.space)  
+- Email: [hellojeongmin@proton.me](mailto:hellojeongmin@proton.me)
+
+
+<details>
+<summary>🇰🇷 한국어</summary>
+
+# 👋 정민 (Jeongmin)
+
+시스템 프로그래밍과 비트코인에 관심이 많은 대학생입니다.  
+LoRa 통신 최적화, 비트코인 프로토콜 구현, 타입스크립트 프론트엔드 개발에 집중하고 있습니다.
 
 ---
+
+## 🔧 주요 프로젝트
+
+- **LoRa + 머신러닝 압축**  
+  - 손실압축을 통한 SF 및 패킷 성공률 개선 연구
+
+- **비트코인 프로토콜 학습**  
+  - 『Programming Bitcoin』을 기반으로 비트코인 직접 구현
+
+- **OpenPleb 웹사이트**  
+  - TailwindCSS + TypeScript 기반 비트코인 교육 플랫폼 제작
+
+---
+
+## 📁 주요 리포지토리
+
+- [`programming_bitcoin`](https://github.com/4xvgal/programming_bitcoin):  
+  비트코인 프로토콜을 파이썬으로 직접 구현
+
+- [`USBprotection`](https://github.com/4xvgal/USBprotection):  
+  승인되지 않은 USB 접근을 차단하는 C# 보안 도구
+
+- [`open-pleb`](https://github.com/gandlafbtc/open-pleb):  
+  타입스크립트 기반 커뮤니티 웹사이트 – 기여자
+
+- [`Algo_n_DataStructure`](https://github.com/4xvgal/Algo_n_DataStructure):  
+  C++로 구현한 알고리즘/자료구조 연습 리포지토리
+
+---
+
+## 📫 연락처
+
+- 웹사이트: [bitcoinpusan.space](https://bitcoinpusan.space)  
+- 이메일: [hellojeongmin@proton.me](mailto:hellojeongmin@proton.me)
+</details>
