@@ -15,7 +15,7 @@ Currently focused on LoRa optimization, Bitcoin protocol internals, and frontend
   - Implementing Bitcoin from scratch via *Programming Bitcoin* by Jimmy Song.
 
 - **OpenPleb Website**  
-  - Building a Bitcoin education platform with TailwindCSS and TypeScript.
+  - Building a Bitcoin-fiat payment brdige platform with TailwindCSS and TypeScript.
 
 ---
 
