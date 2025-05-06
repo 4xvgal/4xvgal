@@ -17,6 +17,9 @@ Currently focused on LoRa optimization, Bitcoin protocol internals, and frontend
 - **OpenPleb Website**  
   - Building a Bitcoin-fiat payment brdige platform with TailwindCSS and TypeScript.
 
+- **Bitcoin in Pusan**
+  - Hosting offline Bitcoin meetups, educational workshops, and public talks through the bitcoin in pusan initiative.
+
 ---
 
 ## 📁 Selected Repositories
@@ -62,6 +65,8 @@ LoRa 통신 최적화, 비트코인 프로토콜 구현, 타입스크립트 프�
 - **OpenPleb 웹사이트**  
   - TailwindCSS + TypeScript 기반 비트코인-법화 결제 플랫폼 제작
 
+- **Bitcoin in Pusan**
+  - BiP를 통해 오프라인 밋업, 비트코인 교육 및 공개 강연을 진행
 ---
 
 ## 📁 주요 리포지토리
