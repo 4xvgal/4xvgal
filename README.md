@@ -14,7 +14,7 @@ Bitcoiner, Pleb, Dev
   - Implementing Bitcoin from scratch via *Programming Bitcoin* by Jimmy Song.
 
 - **OpenPleb Website**  
-  - Building a Bitcoin-fiat payment brdige platform with TailwindCSS and TypeScript.
+  - Building a Bitcoin-fiat payment bridge platform with TailwindCSS and TypeScript.
 
 - **Bitcoin in Pusan**
   - Hosting offline Bitcoin meetups, educational workshops, and public talks through the bitcoin in pusan initiative.
