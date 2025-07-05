@@ -1,8 +1,7 @@
 
-# 👋 Jeongmin (정민)
+# Jeongmin (정민)
 
-University student & system-level developer with deep interest in Bitcoin and embedded systems.  
-Currently focused on LoRa optimization, Bitcoin protocol internals, and frontend development with TypeScript + TailwindCSS.
+Bitcoiner, Pleb, Dev
 
 ---
 
