@@ -1,7 +1,7 @@
 
 # Jeongmin (정민)
 
-Bitcoiner, Pleb, Dev
+I’m building my skills in development and project planning through Bitcoin-based projects, with the goal of creating services and tools that make financial sovereignty easily accessible to everyone.
 
 ---
 
@@ -48,8 +48,7 @@ Bitcoiner, Pleb, Dev
 
 # 👋 정민 (Jeongmin)
 
-시스템 프로그래밍과 비트코인에 관심이 많은 대학생입니다.  
-LoRa 통신 최적화, 비트코인 프로토콜 구현, 타입스크립트 프론트엔드 개발에 집중하고 있습니다.
+비트코인 기반 프로젝트를 통해 개발과 기획 역량을 키우고 있으며, 금융 주권을 쉽게 실현할 수 있는 서비스와 도구를 직접 만들고자 합니다.
 
 ---
 
