@@ -7,13 +7,10 @@ I’m building my skills in development and project planning through Bitcoin-bas
 
 ## 🔧 Projects
 
-- **LoRa + ML-based Compression**  
-  - Optimizing SF and packet success rates by applying lossy compression with ML models.
-
 - **Bitcoin Protocol Study**  
   - Implementing Bitcoin from scratch via *Programming Bitcoin* by Jimmy Song.
 
-- **OpenPleb Website**  
+- **OpenPleb fiat-bitcoin ramp**  
   - Building a Bitcoin-fiat payment bridge platform with TailwindCSS and TypeScript.
 
 - **Bitcoin in Pusan**
@@ -21,7 +18,7 @@ I’m building my skills in development and project planning through Bitcoin-bas
 
 ---
 
-## 📁 Selected Repositories
+## 📁 Repositories
 
 - [`programming_bitcoin`](https://github.com/4xvgal/programming_bitcoin):  
   Bitcoin protocol reconstruction in Python (Elliptic Curve, Blocks, Transactions, Wallets)
@@ -48,14 +45,11 @@ I’m building my skills in development and project planning through Bitcoin-bas
 
 # 👋 정민 (Jeongmin)
 
-비트코인 기반 프로젝트를 통해 개발과 기획 역량을 키우고 있으며, 금융 주권을 쉽게 실현할 수 있는 서비스와 도구를 직접 만들고자 합니다.
+비트코인 프로젝트를 통해 개발과 기획 역량을 키우고 있으며, 금융 주권을 쉽게 실현할 수 있는 서비스와 도구를 직접 만들고자 합니다.
 
 ---
 
 ## 🔧 주요 프로젝트
-
-- **LoRa + 머신러닝 압축**  
-  - 손실압축을 통한 SF 및 패킷 성공률 개선 연구
 
 - **비트코인 프로토콜 학습**  
   - 『Programming Bitcoin』을 기반으로 비트코인 직접 구현
