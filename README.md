@@ -5,6 +5,6 @@ Mission : Expanding greater finanacial accessbility.
 
 금융 접근성을 개선하는 것이 목표입니다.
 
-Interests : Bitcoin, Ecash, Cashu, Lightning, Privacy, Freedom techs
+Interests : Bitcoin, Ecash, Cashu, Lightning, Privacy, Nostr, Freedom techs
 ```
 email [4xvgal@protonmail.com](mailto:4xvgal@protonmail.com)
