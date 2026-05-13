@@ -1,7 +1,7 @@
 
 # JM
 ```
-Mission : Expanding greater finanacial accessbility.
+Expanding finanacial accessbility.
 
 금융 접근성을 개선하는 것이 목표입니다.
 
