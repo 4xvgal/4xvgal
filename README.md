@@ -1,9 +1,8 @@
 
 # JIN
 ```
-Expanding finanacial accessbility.
-
-Bitcoin related Software Developer
+Developing Bitcoin related software
+to Expanding financial accessibility.
 
 Interests : Bitcoin, Ecash, Cashu, Lightning, Privacy, Nostr.
 ```
