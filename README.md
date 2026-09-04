@@ -1,8 +1,7 @@
 
 # JIN
 ```
-Developing Bitcoin related software
-to Expanding financial accessibility.
+Developing Bitcoin software for better sovereignty 
 
 Interests : Bitcoin, Ecash, Cashu, Lightning, Privacy, Nostr.
 ```
