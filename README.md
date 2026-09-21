@@ -1,7 +1,7 @@
 
 # JIN
 ```
-Developing Bitcoin software for better sovereignty 
+Developing Bitcoin software for better financial autonomy.
 
 Interests : Bitcoin, Ecash, Cashu, Lightning, Privacy, Nostr.
 ```
